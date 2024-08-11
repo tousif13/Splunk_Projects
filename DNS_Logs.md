@@ -6,4 +6,4 @@
 
 * source IP, destination IP, domain name, query type, response code, etc.
 
-    dffd
+      index=* sourcetype=dns_sample | regex _raw="(?i)\b(dns|domain|query|response|port 53)\b"
