@@ -1,8 +1,10 @@
 # DNS logs
 
-![image](https://github.com/user-attachments/assets/771b96c1-4a58-456a-ba69-325f716e6f6f)
+Source : https://github.com/0xrajneesh/Splunk-Projects-For-Beginners/tree/main
 
-## Extract Relevant Fields
+![image](https://github.com/user-attachments/assets/ed28ecce-804d-4c05-9edc-9ea3c197a772)
+
+## Extracting Fields
 
 * source IP, destination IP, domain name, query type, response code, etc.
 
